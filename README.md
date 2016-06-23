@@ -11,3 +11,6 @@ Record camera and push stream to rtmp server.
 # 直播流播放
 [如何在网页端和移动端播放Rtmp和hls视频流](http://sixwolf.net/blog/2016/01/30/%E5%9C%A8%E5%90%84%E7%AB%AF%E5%AE%9E%E7%8E%B0Rtmp%E5%92%8Chls%E6%B5%81%E8%A7%86%E9%A2%91%E7%9A%84%E6%92%AD%E6%94%BE/)
 
+
+
+流媒体直播服务器软件使用手册 :     http://jingyan.baidu.com/album/851fbc37de69573e1f15abd4.html
