@@ -13,4 +13,4 @@ Record camera and push stream to rtmp server.
 
 
 
-流媒体直播服务器软件使用手册 :     http://jingyan.baidu.com/album/851fbc37de69573e1f15abd4.html
+##流媒体直播服务器软件使用手册 :     http://jingyan.baidu.com/album/851fbc37de69573e1f15abd4.html
